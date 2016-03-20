@@ -1,4 +1,12 @@
-langzhenzhong is a qiuqiu
+<<<<<<< HEAD
+langzhenzhong is a qiuqiu.
 langwenzhong is a bendan.
 creating a new branch feature1.
-xiaoerlang
+dajiba
+=======
+langzhenzhong is a qiuqiu.
+langwenzhong is a bendan.
+creating a new branch feature1.
+dajiba
+
+>>>>>>> dajibafenzhi
